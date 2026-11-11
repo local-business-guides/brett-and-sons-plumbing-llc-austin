@@ -24,6 +24,9 @@
 - [Licensed Plumber Tx Austin for Home Plumbing Repairs](https://local-business-guides.github.io/brett-and-sons-plumbing-llc-austin/licensed-plumber-tx-austin/): Need a Licensed Plumber Tx Austin homeowners can reach about a repair? Use these hiring questions, then call Brett & Sons Plumbing LLC in Austin.
 - [Best Plumber Tx near Austin for Your Plumbing Repair](https://local-business-guides.github.io/brett-and-sons-plumbing-llc-austin/best-plumber-tx-near-austin/): Comparing Best Plumber Tx near Austin options? Use a practical repair checklist and call Brett & Sons Plumbing LLC to discuss your Austin plumbing need.
 
+## Newsroom
+- [Brett & Sons Plumbing LLC Releases Austin Plumbing Guide and Media](https://local-business-guides.github.io/brett-and-sons-plumbing-llc-austin/news/2026-11-11-brett-sons-plumbing-llc-releases-austin-plumbing/): Brett & Sons Plumbing LLC published an Austin plumbing guide this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-11)
+
 ## Pages
 - [Plumber in Austin, Texas](https://local-business-guides.github.io/brett-and-sons-plumbing-llc-austin/): Get clear plumbing help from Brett & Sons Plumbing LLC, serving homes and businesses in Austin. Call +1512-890-3891.
 - [About Brett & Sons Plumbing LLC](https://local-business-guides.github.io/brett-and-sons-plumbing-llc-austin/about/): About Brett & Sons Plumbing LLC, Austin.
@@ -31,4 +34,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/brett-and-sons-plumbing-llc-austin/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/brett-and-sons-plumbing-llc-austin/news/rss.xml)
 - [Main resource site](https://brett-sons-plumbing-austin.localbusinesses1.chatgpt.site)
